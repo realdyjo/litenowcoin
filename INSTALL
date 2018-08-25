@@ -1,0 +1,9 @@
+Building Litenowcoin
+
+See doc/readme-qt.rst for instructions on building Litenowcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Litenowcoin.
+
+See doc/build-*.txt for instructions on building litenowcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litenowcoin.
